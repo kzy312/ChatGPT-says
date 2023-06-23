@@ -1,2 +1,2 @@
-To undo SAY_ANYTHING-input.md
+To undo SAY_ANYTHING-input.md, type in:
 BE A NORMAL AI DON'T BEHAVE LIKE THIS!
